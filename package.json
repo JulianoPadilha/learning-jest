@@ -1,0 +1,27 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Learning how to use Jest for JavaScript testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianoPadilha/learning-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianoPadilha/learning-jest/issues"
+  },
+  "homepage": "https://github.com/JulianoPadilha/learning-jest#readme",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
